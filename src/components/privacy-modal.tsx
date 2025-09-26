@@ -21,7 +21,7 @@ export function PrivacyModal({ isOpen, onClose }: PrivacyModalProps) {
         </DialogHeader>
         <div className="mt-6">
           <p className="text-[var(--dusty-grey)] leading-relaxed">
-            Нажимая кнопку 'Оставить заявку', вы даете согласие на&nbsp;обработку ваших персональных данных. Мы свяжемся с&nbsp;вами по&nbsp;указанному email для&nbsp;демонстрации продукта. Подробнее о том, как&nbsp;мы обрабатываем данные, читайте в&nbsp;нашей{" "}
+            Нажимая кнопку &apos;Оставить заявку&apos;, вы даете согласие на&nbsp;обработку ваших персональных данных. Мы свяжемся с&nbsp;вами по&nbsp;указанному email для&nbsp;демонстрации продукта. Подробнее о том, как&nbsp;мы обрабатываем данные, читайте в&nbsp;нашей{" "}
             <a 
               href={policyUrl} 
               target="_blank" 

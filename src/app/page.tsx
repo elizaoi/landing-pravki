@@ -79,7 +79,7 @@ export default function HomePage() {
             <div className="w-16 h-16 mx-auto">
               <Clock className="w-full h-full text-[var(--liquid-lava)]" strokeWidth={1.5} />
             </div>
-            <h3 className="text-xl font-bold text-[var(--snow)]">Правка 'где-то на&nbsp;5-й секунде'</h3>
+            <h3 className="text-xl font-bold text-[var(--snow)]">Правка &apos;где-то на&nbsp;5-й секунде&apos;</h3>
             <p className="text-[var(--dusty-grey)] leading-relaxed">
               Неточные комментарии без привязки к&nbsp;кадру затягивают согласование и&nbsp;приводят к&nbsp;бесконечным доработкам.
             </p>
